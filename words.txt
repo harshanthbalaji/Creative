@@ -1,0 +1,1 @@
+Enter your words here for the hangman file.
